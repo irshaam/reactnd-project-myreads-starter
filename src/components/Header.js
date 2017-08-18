@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const Header = (props) => {
 	return (
 		<div className="list-books-title">
@@ -8,7 +7,6 @@ const Header = (props) => {
         </div>
 	)
 }
-
 
 export default Header;
 
